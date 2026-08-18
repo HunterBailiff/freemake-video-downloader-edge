@@ -41,4 +41,4 @@ The goal is a tool that just works — no clutter, no bloat.
 ## Main features
 1. **Professional Timeline Editor:** Multi-track video editing with real-time preview and GPU acceleration.
 2. **Visual Effects & Compositing:** Built-in effects, transitions, color grading, and motion graphics tools.
-3. **Export & Delivery:** Wide format support with optimized presets for web, broadcast, and cinema.
+3. **Export & Delivery:** Wide format support with optimized presets for web, broadcast, and cinema. 
